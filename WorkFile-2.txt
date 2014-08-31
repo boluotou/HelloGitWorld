@@ -3,3 +3,5 @@ This is master & bugfixing merged version.This is the 2nd work file.
 Changes in local.
 
 bug fixing.
+
+fix issue01.
