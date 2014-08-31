@@ -6,4 +6,4 @@ Changes 2nd from local and merged github.com
 
 bug fixing.
 
-this is master.
+this is master & bugfixing branch merged version.
